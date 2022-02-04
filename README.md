@@ -9,8 +9,6 @@ link to live site-https://keerthi46.github.io/Sample1/
 
 - 📫 How to reach me **keerthi.dm@techolution.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
