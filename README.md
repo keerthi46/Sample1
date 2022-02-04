@@ -3,7 +3,7 @@ Introduction
 link to live site-https://keerthi46.github.io/Sample1/
 
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
-<h3 align="center">Associate UI Developer</h3>
+<h3 align="left">Associate UI Developer</h3>
 
 - 👨‍💻 Working at **Techolution**
 
