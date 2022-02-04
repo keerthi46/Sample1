@@ -7,7 +7,7 @@ link to live site-https://keerthi46.github.io/Sample1/
 
 - 👨‍💻 Working at **Techolution**
 
-- 🌱 I’m currently learning **Html,CSS,JS**
+- 🌱 I’m currently learning **Html,CSS,JS**     
 
 - 📫 How to reach me **keerthi.dm@techolution.com**
 
