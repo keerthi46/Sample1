@@ -5,9 +5,13 @@ link to live site-https://keerthi46.github.io/Sample1/
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 <h3 align="center">Associate UI Developer</h3>
 
+- 👨‍💻 Working at **Techolution**
+
 - 🌱 I’m currently learning **Html,CSS,JS**
 
 - 📫 How to reach me **keerthi.dm@techolution.com**
+
+- ⚡ Hobbies **Reading novels,Photography**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
